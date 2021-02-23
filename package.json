@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "preact": "^10.3.1",
-    "preact-render-to-string": "^5.1.4"
+    "preact-render-to-string": "^5.1.4",
+    "react-countdown": "^2.3.1"
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.5",
