@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "RocknRollOne";
+	src: url(/assets/RocknRoll_One/RocknRollOne-Regular.ttf);
+}
+
 html, body {
 	height: 100%;
 	width: 100%;
@@ -9,4 +14,18 @@ html, body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-family: "RocknRollOne", "Arial", sans-serif;
+	color:#a5ccee;
+}
+
+.container {
+	margin-top: 20px;
+	margin-left: 75px;
+}
+
+@media (max-device-width: 800px) {
+	.container {
+		margin-top: 4.5px;
+		margin-left: 2px;
+	}
 }
