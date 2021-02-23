@@ -1,6 +1,6 @@
 {
-  "name": "silvester-web",
-  "short_name": "silvester-web",
+  "name": "Silvester Countdow",
+  "short_name": "silvestercountdown",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
